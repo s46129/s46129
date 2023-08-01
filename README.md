@@ -3,12 +3,12 @@
 I'm Rex, a game developer with experience in Unity game engine, Nintendo Switch game development, AR/VR development, and mobile app development. I'm passionate about creating engaging and immersive experiences across various platforms.
 
 ### 👨‍💻 Technical Skills
-- Programming Languages: C#
-- Game Engines: Unity
+- Programming Languages: <img src="c-sharp.png" alt="C#" width="42">
+- Game Engines: <img src="unity.png" alt="Unity" width="42">
 - AR/VR Platforms: ARKit, ARCore, Vuforia, Oculus, HTC Vive
 
 ### 🎮 Development Projects
-- 妖果小學 ( [Nintendo](https://ec.nintendo.com/HK/zh/titles/70010000048260) )
+- 妖果小學 ( [Nintendo Switch](https://ec.nintendo.com/HK/zh/titles/70010000048260) )
 - TagWar ( [Steam](https://store.steampowered.com/app/1125600/TAG_WAR/) )
 - PenPenPenguins ( [itch.io](https://penpenpenguins.itch.io/penpenpen) )
 - 健身道AR ( [iOS](https://apps.apple.com/tw/app/%E5%81%A5%E8%BA%AB%E9%81%93ar/id1539147923) / [Android](https://play.google.com/store/apps/details?id=tw.wowwow.FitnessProAR&hl=zh) )
