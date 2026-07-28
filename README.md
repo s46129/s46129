@@ -24,7 +24,3 @@ I'm Rex, a game developer with experience in Unity game engine, Nintendo Switch 
 
 ### 📫 Get in Touch
 - Email: ted56129@gmail.com
-
-[My Website](https://tedlearninglife.com/)
-
-![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=s46129&theme=calm&show_icons=true)
