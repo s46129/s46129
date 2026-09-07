@@ -3,9 +3,21 @@
 I'm Rex, a game developer with experience in Unity game engine, Nintendo Switch game development, AR/VR development, and mobile app development. I'm passionate about creating engaging and immersive experiences across various platforms.
 
 ### 👨‍💻 Technical Skills
-- Programming Languages: <img src="c-sharp.png" alt="C#" width="42">
-- Game Engines: <img src="unity.png" alt="Unity" width="42">
-- AR/VR Platforms: ARKit, ARCore, Vuforia, Oculus, HTC Vive
+
+核心開發｜Unity / C#
+涵蓋遊戲、AR／VR 與互動應用；擅長架構設計、技術選型與核心功能實作。
+
+XR 開發｜AR / VR / MR
+具備 AR Foundation、Meta XR、VIVE OpenXR 開發經驗，涉及空間定位、互動設計與跨裝置整合。
+
+多人連線｜Networking
+具備多人狀態同步架構與整合經驗 。
+
+軟體架構｜Architecture
+採用組合式設計、依賴注入與模組化架構，實作內部所使用的 Custom package ，重視可維護性與可測試性；UniRx、UniTask 愛用者。
+
+跨平台交付｜Cross-platform Delivery
+具備 Nintendo Switch、Windows、iOS、Android 開發經驗，參與需求分析、開發整合、測試及產品上架發行。
 
 ### 🎮 Development Projects
 - BIRDIE WING -Golf Girls' Story 小鳥之翼([Nintendo Switch](https://ec.nintendo.com/HK/zh/titles/70010000051695))
