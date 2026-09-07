@@ -4,20 +4,12 @@ I'm Rex, a game developer with experience in Unity game engine, Nintendo Switch 
 
 ### 👨‍💻 Technical Skills
 
-核心開發｜Unity / C#
-涵蓋遊戲、AR／VR 與互動應用；擅長架構設計、技術選型與核心功能實作。
-
-XR 開發｜AR / VR / MR
-具備 AR Foundation、Meta XR、VIVE OpenXR 開發經驗，涉及空間定位、互動設計與跨裝置整合。
-
-多人連線｜Networking
-具備多人狀態同步架構與整合經驗 。
-
-軟體架構｜Architecture
-採用組合式設計、依賴注入與模組化架構，實作內部所使用的 Custom package ，重視可維護性與可測試性；UniRx、UniTask 愛用者。
-
-跨平台交付｜Cross-platform Delivery
-具備 Nintendo Switch、Windows、iOS、Android 開發經驗，參與需求分析、開發整合、測試及產品上架發行。
+- **Unity & C#** — Game development, interactive applications, and core gameplay systems.
+- **AR / VR / MR** — AR Foundation, Meta XR, and VIVE OpenXR; spatial tracking and cross-device integration.
+- **Multiplayer** — Client–server architecture and multiplayer state synchronization.
+- **Software Architecture** — Composition, dependency injection, and modular design, with an emphasis on maintainability and testability.
+- **Tools & Packages** — Reusable custom Unity packages, asynchronous workflows with UniTask, and reactive programming with UniRx.
+- **Platforms & Publishing** — Nintendo Switch, Windows, iOS, and Android; experience from requirements analysis through development and release.
 
 ### 🎮 Development Projects
 - BIRDIE WING -Golf Girls' Story 小鳥之翼([Nintendo Switch](https://ec.nintendo.com/HK/zh/titles/70010000051695))
@@ -34,13 +26,6 @@ XR 開發｜AR / VR / MR
 
 #### GameJam
 - PenPenPenguins ( [itch.io](https://penpenpenguins.itch.io/penpenpen) )
-
-
-### 🏆 Achievements
-- Nintendo Switch game development experience
-- Developed AR/VR applications for various platforms
-- Developed mobile apps for Android and iOS
-- Participated in game jams
 
 ### 📫 Get in Touch
 - Email: ted56129@gmail.com
