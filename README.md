@@ -4,7 +4,7 @@ I'm a **Senior Unity / XR Engineer and Technical Lead** specializing in software
 
 I have experience delivering commercial projects across **Nintendo Switch, XR, Windows, iOS, and Android**, covering the full development lifecycle from requirements analysis and architecture design to implementation, optimization, and release.
 
-**[View My Resume →](https://s46129.github.io/rex-ying-resume/)**
+
 
 ## Technical Skills
 
