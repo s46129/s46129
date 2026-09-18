@@ -57,6 +57,32 @@ Worked on XR interaction, multiplayer systems, and spatial positioning for an im
 * **妖果小學-水果奶奶的大秘密** — [iOS](https://apps.apple.com/tw/app/%E5%A6%96%E6%9E%9C%E5%B0%8F%E5%AD%B8-%E6%B0%B4%E6%9E%9C%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%A4%A7%E7%A7%98%E5%AF%86/id1583554773) / [Android](https://play.google.com/store/apps/details?id=tw.wowwow.YaoGouMagicBox&hl=zh)
 * **桃園市國民小學在地化課程教材** — [iOS](https://apps.apple.com/tw/app/%E6%A1%83%E5%9C%92%E5%B8%82%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8%E5%9C%A8%E5%9C%B0%E5%8C%96%E8%AA%B2%E7%A8%8B%E6%95%99%E6%9D%90/id1572605191) / [Android](https://play.google.com/store/apps/details?id=tw.wowwow.QingXiTempleApp&hl=zh)
 
+## Side Projects
+
+### Fine Art Exhibition Planner
+
+**Web Application · React / TypeScript / Three.js**
+
+A browser-based workspace for planning physical art exhibitions, combining centimeter-accurate 2D wall layouts, 3D previews, framing and matting visualization, pricing, and export workflows. Built as an end-to-end product from workflow design and domain modeling to implementation and deployment.
+
+[Live Demo](https://fine-art-exhibition-planner.s46129.chatgpt.site/) · Source code is private.
+
+### ZXing-C++ QR Code for Unity
+
+**Unity Package · C# / C++ Native Plugin**
+
+An open-source Unity Package Manager package integrating ZXing-C++ for QR code decoding from Gray8 buffers on Windows and Android. Includes C# P/Invoke bindings, asynchronous scanning, ROI/downscale support, native build scripts, tests, and a performance-focused zero-copy decode path.
+
+[View on GitHub](https://github.com/s46129/unity-zxingcpp-qrcode)
+
+### PhotoConverter
+
+**Developer Tool · Python / Flask / Image Processing**
+
+A photo conversion and resizing tool with dedicated support for HDR10 HIF / HEIF / HEIC images from cameras such as the Canon EOS R8. Implements an HDR-to-SDR color pipeline and provides both a local batch-processing workflow and a browser-based interface.
+
+[View on GitHub](https://github.com/s46129/PhotoConverter) · [Live Demo](https://photo-converter-rex.s46129.chatgpt.site)
+
 ## Game Jam
 
 * **PenPenPenguins** — [itch.io](https://penpenpenguins.itch.io/penpenpen)
