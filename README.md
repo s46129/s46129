@@ -54,45 +54,21 @@ Unity · C# · OpenXR · Meta XR · VIVE OpenXR · AR Foundation · Netcode for 
 <details>
 <summary><strong>More Side Projects</strong></summary>
 
-### PenPenPenguins
+- **[ZXing-C++ QR Code for Unity](https://github.com/s46129/unity-zxingcpp-qrcode)**  
+  Unity Package · C# / C++ Native Plugin · Native C++ integration, async scanning, testable scheduling, ROI/downscale support, and cross-platform UPM distribution.
+  
+- **[PenPenPenguins](https://penpenpenguins.itch.io/penpenpen)**  
+  Game Jam Project
+  
+- **[WOWWOW Anim Clip Slimmer](https://github.com/WowwowLab/AnimClipSlimmer)**  
+  Unity Editor Tool · Automates animation asset cleanup to reduce source asset size, repository overhead, and repetitive production work.
 
-**Game Jam Project**
+- **[Fine Art Exhibition Planner](https://fine-art-exhibition-planner.s46129.chatgpt.site/)**  
+  Web Application · React / TypeScript / Three.js · Exhibition planning with centimeter-accurate 2D layouts, 3D previews, framing visualization, pricing, and export workflows. Source code is private.
 
-[View on itch.io](https://penpenpenguins.itch.io/penpenpen)
+- **[PhotoConverter](https://github.com/s46129/PhotoConverter)**  
+  Developer Tool · Python / Flask / Image Processing · HDR10 HIF / HEIF / HEIC conversion, resizing, and HDR-to-SDR processing. [Live Demo](https://photo-converter-rex.s46129.chatgpt.site)
 
-
-### ZXing-C++ QR Code for Unity
-
-**Unity Package · C# / C++ Native Plugin**
-
-Native C++ integration, asynchronous scanning, testable scheduling, ROI/downscale support, and cross-platform Unity Package Manager distribution.
-
-[View on GitHub](https://github.com/s46129/unity-zxingcpp-qrcode)
-
-### WOWWOW Anim Clip Slimmer
-
-**Unity Editor Tool**
-
-Automates animation asset cleanup to reduce source asset size, repository overhead, and repetitive production work.
-
-[View on GitHub](https://github.com/WowwowLab/AnimClipSlimmer)
-
-
-### Fine Art Exhibition Planner
-
-**Web Application · React / TypeScript / Three.js**
-
-A browser-based workspace for planning physical art exhibitions, including centimeter-accurate 2D wall layouts, 3D previews, framing visualization, pricing, and export workflows.
-
-[Live Demo](https://fine-art-exhibition-planner.s46129.chatgpt.site/) · Source code is private.
-
-### PhotoConverter
-
-**Developer Tool · Python / Flask / Image Processing**
-
-A photo conversion and resizing tool with HDR10 HIF / HEIF / HEIC support and an HDR-to-SDR color pipeline.
-
-[View on GitHub](https://github.com/s46129/PhotoConverter) · [Live Demo](https://photo-converter-rex.s46129.chatgpt.site)
 
 </details>
 <br>
