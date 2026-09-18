@@ -10,48 +10,34 @@ I have experience delivering commercial projects across **Nintendo Switch, XR, W
 
 ## How I Build Software
 
-- **Architecture serves the product** — I design around real product needs and expected change, introducing abstraction only where it creates practical value.
-- **Clear domain and responsibilities** — I establish shared terminology and clear ownership before implementation so systems are easier to communicate, maintain, and extend.
-- **Design for change** — I keep gameplay, networking, platform-specific code, and presentation behind clear boundaries so each part can evolve independently.
-- **Specification-driven, agent-assisted development** — I define behavior and acceptance criteria before implementation, then use AI agents to accelerate execution while keeping verification and review explicit.
+- **Architecture serves the product**  
+  I design around real product needs and expected change, introducing abstraction only where it creates practical value.
 
+- **Clear domain and responsibilities**  
+  I establish shared terminology and clear ownership before implementation so systems are easier to communicate, maintain, and extend.
+
+- **Design for change**  
+  I keep gameplay, networking, platform-specific code, and presentation behind clear boundaries so each part can evolve independently.
+
+- **Specification-driven, agent-assisted development**  
+  I define behavior and acceptance criteria before implementation, then use AI agents to accelerate execution while keeping verification and review explicit.
 ## Selected Technologies
 
 Unity · C# · OpenXR · Meta XR · VIVE OpenXR · AR Foundation · Netcode for GameObjects · Socket.IO · Zenject · UniRx · UniTask
 
 ## Featured Projects
 
-### BIRDIE WING -Golf Girls' Story-
+- **[BIRDIE WING -Golf Girls' Story-](https://ec.nintendo.com/HK/zh/titles/70010000051695)**  
+  Nintendo Switch · Gameplay architecture, golf simulation, game flow, tooling, and optimization.
 
-**Nintendo Switch**
+- **[妖果小學](https://ec.nintendo.com/HK/zh/titles/70010000048260)**  
+  Nintendo Switch · Gameplay systems, content tooling, multilingual systems, and Timeline workflows.
 
-Gameplay architecture, golf simulation, game flow, dialogue systems, development tooling, and performance optimization for a commercial Nintendo Switch title.
+- **[歡迎來到霹靂宇宙大戲院](https://gnn.gamer.com.tw/detail.php?sn=296478)**  
+  Location-based MR / VR · Multiplayer synchronization, spatial interaction, and location-based XR systems.
 
-[View on Nintendo eShop](https://ec.nintendo.com/HK/zh/titles/70010000051695)
-
-### 妖果小學
-
-**Nintendo Switch**
-
-Gameplay systems, level and stage editing workflows, multilingual dialogue and voice systems, Timeline integration, and content production tooling.
-
-[View on Nintendo eShop](https://ec.nintendo.com/HK/zh/titles/70010000048260)
-
-### 歡迎來到霹靂宇宙大戲院
-
-**Location-based MR / VR Experience**
-
-Multiplayer synchronization, spatial interaction, and location-based XR systems for a large-scale immersive experience.
-
-[Project Introduction](https://gnn.gamer.com.tw/detail.php?sn=296478)
-
-### 星際謎域：宇宙探險者 XR
-
-**Multiplayer XR Experience**
-
-XR interaction, multiplayer systems, spatial positioning, and shared immersive experiences.
-
-[Watch Video](https://www.youtube.com/watch?v=iABCdtvHWWA)
+- **[星際謎域：宇宙探險者 XR](https://www.youtube.com/watch?v=iABCdtvHWWA)**  
+  Multiplayer XR · XR interaction, spatial positioning, and shared immersive experiences.
 
 <details>
 <summary><strong>More Released Projects</strong></summary>
