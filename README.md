@@ -75,5 +75,5 @@ Unity · C# · OpenXR · Meta XR · VIVE OpenXR · AR Foundation · Netcode for 
 
 ## Get in Touch
 
-- **Resume & Portfolio:** [rex-ying-resume](https://rex-ying.s46129.chatgpt.site)
+- **Resume & Portfolio:** [rex-ying-resume](https://rex-ying-resume.web.app)
 - **Email:** ted56129@gmail.com
